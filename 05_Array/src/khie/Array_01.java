@@ -1,4 +1,5 @@
 package khie;
+
 /*
  * -배열(Array)?
  * =>하나의 이름으로 동일한 자료형의 데이터를 여러 개 연속적으로 저장 할 수 있는 메모리 공간을 할당 받는 것을 말함.
@@ -22,7 +23,7 @@ package khie;
  *  =>2.배열의 초기값을 이용하여 배열 생성.
  *
  */
-
+//
 public class Array_01 {
 
 	public static void main(String[] args) {
